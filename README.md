@@ -3,9 +3,8 @@
 ### OC 1.0.4
 ### Sequoia15.4.1
 
-|||
-|---|---|  
 |Sleep/Reset/Shutdown|OK|
+|---|---|  
 |WLAN (Intel Ax201)|OK|
 |BT (Intel Ax201)|OK|
 |AirDrop|Not Tested|
