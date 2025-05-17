@@ -8,4 +8,4 @@
 |Sleep/Reset/Shutdown|OK|
 |WLAN (Intel Ax201)|OK|
 |BT (Intel Ax201)|OK|
-|AirDrop|Not Tested|
+|AirDrop|Not Worked|
